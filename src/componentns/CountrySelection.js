@@ -8,7 +8,7 @@ export default props => {
                 <form onSubmit={props.handleSubmit}>
                     <select value={props.city} onChange={props.handleChange} className="city-select browser-default custom-select">
                         <option>Choose City</option>
-                        {props.cities.map((city, idx) => <option key={idx} value={city}>{city}</option>)}
+                        {props.cities.map((city, idx) => <option key={idx} value={city.city}>{city.city}</option>)}
                     </select>
                     <MDBBtn className='get-weather-data' type='submit' onClick={props.handleSubmit}>GET DATA</MDBBtn>
                 </form>

@@ -14,6 +14,5 @@ export default props => {
                 </form>
             </div>
         </div>
-
     );
 };

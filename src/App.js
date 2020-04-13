@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 import CountrySelection from "./componentns/CountrySelection";
+import WeatherData from "./componentns/WeatherData";
+import EmptyObject from "./helpers/EmptyObject";
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import 'bootstrap-css-only/css/bootstrap.min.css';
 import 'mdbreact/dist/css/mdb.css';
@@ -10,7 +12,7 @@ function App() {
 
     const [ selectCity, setSelectCity ] = useState('');
     const [ weatherData, setWeatherData ] = useState({});
-    const cities = ['seattle', 'new york', 'chicago', 'las Vegas', 'oklahoma', 'kansas city'];
+    const cities = ['Seattle', 'Denver', 'New York', 'Chicago', 'Las-Vegas', 'Oklahoma', 'Portland'];
 
     const getData = async city => {
 
@@ -50,6 +52,7 @@ function App() {
                 handleSubmit={handleSubmit}
                 handleChange={handleChange}
             />
+            {!EmptyObject(weatherData) && <WeatherData {...weatherData}/>}
         </div>
     );
 }

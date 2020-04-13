@@ -10,10 +10,11 @@ span.data-row {
     color: darkblue;
 }
 
-.city-name {
+h2.city-name {
     font-size: 125px;
     color: darkblue;
     margin-bottom: 85px;
+    text-align: center;
 }
 
 .get-weather-data {

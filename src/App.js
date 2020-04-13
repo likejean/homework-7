@@ -25,6 +25,7 @@ function App() {
             await setWeatherData({
                 city: city,
                 tempF: ob.tempF,
+                tempC: ob.tempC,
                 humidity: ob.humidity,
                 windSpeed: ob.windSpeedMPH,
                 weather: ob.weather
@@ -44,7 +45,6 @@ function App() {
 
     return (
         <div className="app">
-            <div><p>{selectCity}{weatherData.weather}</p></div>
             <CountrySelection
                 getData={getData}
                 cities={cities}

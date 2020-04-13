@@ -1,12 +1,13 @@
 import React from 'react';
-import { MDBBtn } from 'mdbreact';
+import {MDBBtn} from 'mdbreact';
 
 export default props => {
     return (
         <div className='input-search-wrapper'>
             <div className='input-search-row'>
                 <form onSubmit={props.handleSubmit}>
-                    <select value={props.city} onChange={props.handleChange} className="city-select browser-default custom-select">
+                    <select value={props.city} onChange={props.handleChange}
+                            className="city-select browser-default custom-select">
                         <option>Choose City</option>
                         {props.cities.map((city, idx) => <option key={idx} value={city.city}>{city.city}</option>)}
                     </select>

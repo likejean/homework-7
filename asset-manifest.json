@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/homework-7/static/css/main.82ec80c7.chunk.css",
-    "main.js": "/homework-7/static/js/main.e5002ac6.chunk.js",
-    "main.js.map": "/homework-7/static/js/main.e5002ac6.chunk.js.map",
+    "main.css": "/homework-7/static/css/main.e80e04c3.chunk.css",
+    "main.js": "/homework-7/static/js/main.af27e45b.chunk.js",
+    "main.js.map": "/homework-7/static/js/main.af27e45b.chunk.js.map",
     "runtime-main.js": "/homework-7/static/js/runtime-main.dd751139.js",
     "runtime-main.js.map": "/homework-7/static/js/runtime-main.dd751139.js.map",
-    "static/css/2.94fd21aa.chunk.css": "/homework-7/static/css/2.94fd21aa.chunk.css",
-    "static/js/2.5444f883.chunk.js": "/homework-7/static/js/2.5444f883.chunk.js",
-    "static/js/2.5444f883.chunk.js.map": "/homework-7/static/js/2.5444f883.chunk.js.map",
+    "static/css/2.84f9fdc3.chunk.css": "/homework-7/static/css/2.84f9fdc3.chunk.css",
+    "static/js/2.1bbf2b52.chunk.js": "/homework-7/static/js/2.1bbf2b52.chunk.js",
+    "static/js/2.1bbf2b52.chunk.js.map": "/homework-7/static/js/2.1bbf2b52.chunk.js.map",
     "index.html": "/homework-7/index.html",
-    "precache-manifest.97560b034385a498d25e00144f43224a.js": "/homework-7/precache-manifest.97560b034385a498d25e00144f43224a.js",
+    "precache-manifest.9db7e9eca12541a3536f026b07ec1b88.js": "/homework-7/precache-manifest.9db7e9eca12541a3536f026b07ec1b88.js",
     "service-worker.js": "/homework-7/service-worker.js",
-    "static/css/2.94fd21aa.chunk.css.map": "/homework-7/static/css/2.94fd21aa.chunk.css.map",
-    "static/css/main.82ec80c7.chunk.css.map": "/homework-7/static/css/main.82ec80c7.chunk.css.map",
-    "static/js/2.5444f883.chunk.js.LICENSE.txt": "/homework-7/static/js/2.5444f883.chunk.js.LICENSE.txt",
+    "static/css/2.84f9fdc3.chunk.css.map": "/homework-7/static/css/2.84f9fdc3.chunk.css.map",
+    "static/css/main.e80e04c3.chunk.css.map": "/homework-7/static/css/main.e80e04c3.chunk.css.map",
+    "static/js/2.1bbf2b52.chunk.js.LICENSE.txt": "/homework-7/static/js/2.1bbf2b52.chunk.js.LICENSE.txt",
     "static/media/mdb.css": "/homework-7/static/media/arrow_right.8ef6a08c.svg",
     "static/media/all.min.css": "/homework-7/static/media/fa-solid-900.ec763292.svg",
     "static/media/App.css": "/homework-7/static/media/weather_background.a74b8f85.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.dd751139.js",
-    "static/css/2.94fd21aa.chunk.css",
-    "static/js/2.5444f883.chunk.js",
-    "static/css/main.82ec80c7.chunk.css",
-    "static/js/main.e5002ac6.chunk.js"
+    "static/css/2.84f9fdc3.chunk.css",
+    "static/js/2.1bbf2b52.chunk.js",
+    "static/css/main.e80e04c3.chunk.css",
+    "static/js/main.af27e45b.chunk.js"
   ]
 }

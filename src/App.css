@@ -43,7 +43,7 @@ h2.city-name {
 
 .data-display-wrapper {
     display: flex;
-    justify-content: start;
+    justify-content: center;
     margin: 25px 25%;
 }
 .app {

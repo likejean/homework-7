@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da23f7377b3e01955b60dab734ebadcd",
+    "revision": "7cc0920af83561def76c4463dff0f385",
     "url": "/homework-7/index.html"
   },
   {
-    "revision": "bfc989d381dc3a8f9a62",
+    "revision": "dff6728753f119151f93",
     "url": "/homework-7/static/css/2.84f9fdc3.chunk.css"
   },
   {
-    "revision": "3f3d169af250f115f337",
+    "revision": "e1a25a2a45dcc84715e1",
     "url": "/homework-7/static/css/main.2e3fb436.chunk.css"
   },
   {
-    "revision": "bfc989d381dc3a8f9a62",
-    "url": "/homework-7/static/js/2.7cb2464c.chunk.js"
+    "revision": "dff6728753f119151f93",
+    "url": "/homework-7/static/js/2.a17e335f.chunk.js"
   },
   {
     "revision": "d2966845b94a3318bf32eecc7af8015d",
-    "url": "/homework-7/static/js/2.7cb2464c.chunk.js.LICENSE.txt"
+    "url": "/homework-7/static/js/2.a17e335f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3f3d169af250f115f337",
-    "url": "/homework-7/static/js/main.06097d47.chunk.js"
+    "revision": "e1a25a2a45dcc84715e1",
+    "url": "/homework-7/static/js/main.0716d99d.chunk.js"
   },
   {
     "revision": "01f2def2293f7e029587",
@@ -34,6 +34,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8ef6a08cdc1154920165680a4edde771",
     "url": "/homework-7/static/media/arrow_right.8ef6a08c.svg"
+  },
+  {
+    "revision": "c88eb01a14eb455d25ac3e7dde6e63b1",
+    "url": "/homework-7/static/media/chicago_logo.c88eb01a.jpg"
+  },
+  {
+    "revision": "f2665349043db94b9409c1edc6ab7bc4",
+    "url": "/homework-7/static/media/dallas_logo.f2665349.jpg"
   },
   {
     "revision": "0cb5a5c0d251c109458c85c6afeffbaa",
@@ -94,6 +102,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ec763292e583294612f124c0b0def500",
     "url": "/homework-7/static/media/fa-solid-900.ec763292.svg"
+  },
+  {
+    "revision": "69c3f0984419f993c7d8b628d5690d3f",
+    "url": "/homework-7/static/media/miami_logo.69c3f098.jpg"
+  },
+  {
+    "revision": "3b8233d6f40df3fc02f50fef6ccfe90b",
+    "url": "/homework-7/static/media/new_york_logo.3b8233d6.jpg"
+  },
+  {
+    "revision": "c7b3e852eec7b1a77a2e8af69132814a",
+    "url": "/homework-7/static/media/oklahoma_logo.c7b3e852.jpg"
+  },
+  {
+    "revision": "b9cd68bb938433c71d30403febf63407",
+    "url": "/homework-7/static/media/phoenix_logo.b9cd68bb.jpg"
+  },
+  {
+    "revision": "d9c61fcee99c7d5bfdeb69ce822fc125",
+    "url": "/homework-7/static/media/portland_logo.d9c61fce.jpg"
+  },
+  {
+    "revision": "f1cb8c161ee0d629f0c038490b1999ad",
+    "url": "/homework-7/static/media/seattle_logo.f1cb8c16.jpg"
   },
   {
     "revision": "a74b8f8559338bba2536d06c71754722",

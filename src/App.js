@@ -7,14 +7,14 @@ import 'bootstrap-css-only/css/bootstrap.min.css';
 import 'mdbreact/dist/css/mdb.css';
 import './App.css';
 
+
+
 function App() {
-
-
     const [selectCity, setSelectCity] = useState('');
     const [weatherData, setWeatherData] = useState({});
     const cities = [
         {city: 'Seattle', logo: '/homework-7/static/media/seattle_logo.f1cb8c16.jpg'},
-        {city: 'New York', logo: '../src/assets/logos/new_york_logo.jpg'},
+        {city: 'New York', logo: '/homework-7/static/media/new_york_logo.3b8233d6.jpg'},
         {city: 'Chicago', logo: '/homework-7/static/media/chicago_logo.c88eb01a.jpg'},
         {city: 'Dallas', logo: '/homework-7/static/media/dallas_logo.f2665349.jpg'},
         {city: 'Miami', logo: '/homework-7/static/media/miami_logo.69c3f098.jpg'},

@@ -2,8 +2,18 @@ import React from 'react';
 import {Temperature, Humidity, Clouds} from "./icons/WeatherIcons";
 import LogoCard from "./LogoCard";
 
+///////////////////////////USE WEBPACK///////////////////////////////////////
+const importData = async () => require.context("../assets/logos", false, /.*\.jpg$/)
+    .keys()
+    .map(item => item.substring(1));
+
+importData()
+    .then(resolve => console.log(resolve))
+    .catch(err => console.log(err));
+
 export default props => {
     return (
+
         <div className='data-display-wrapper'>
             <div className='data-display-row'>
                 <div className='row'>
